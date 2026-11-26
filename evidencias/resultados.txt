@@ -1,0 +1,1 @@
+PASS: catálogo, imágenes, D-pad, detalle, filtros, cantidades, total, restauración con almacenamiento simulado, confirmación, promociones, rotación, vaciado y resolución 960x540. Sin errores JavaScript.

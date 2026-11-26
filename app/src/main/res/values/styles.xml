@@ -1,0 +1,3 @@
+<resources><style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+    <item name="android:windowBackground">#151310</item><item name="android:windowFullscreen">true</item><item name="android:colorAccent">#FFB34E</item><item name="android:windowLightStatusBar">false</item>
+</style></resources>
